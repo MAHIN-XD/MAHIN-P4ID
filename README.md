@@ -10,4 +10,4 @@ git clone https://github.com/MAHIN-XD/MAHIN-P4ID
 
 cd MAHIN-P4ID
 
-python Mahin.py
+python mahin.py
